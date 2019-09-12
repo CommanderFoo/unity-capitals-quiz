@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Cocos (Keeling) Islands
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Cocos (Keeling) Islands
+  capital: West Island
+  info: West Island is the capital of the Cocos (Keeling) Islands. The population
+    is roughly 120 and consists mainly of Europeans. It is the less populous of the
+    two inhabited islands (the other is Home Island). It was part of the Clunies-Ross
+    plantation and an airstrip was built here during World War II. As well as all
+    the government buildings, it contains the airport, a general store and tourist
+    accommodation. In November 2013 it was revealed that the Australian Signals Directorate
+    operates a listening station on West Island.Wullenweber and Adcock antenna systems
+    as well as two satellite dish antennae are clearly visible via Google satellite
+    view.

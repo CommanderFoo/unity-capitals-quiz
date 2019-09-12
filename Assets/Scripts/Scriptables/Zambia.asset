@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Zambia
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Zambia
+  capital: Lusaka
+  info: "Lusaka is the capital and largest city of Zambia. One of the fastest developing
+    cities in southern Africa, Lusaka is in the southern part of the central plateau
+    at an elevation of about 1,279 metres (4,196\_ft). As of 2010[update], the city's
+    population was about 1.7 million, while the urban population is 2.4 million.
+    Lusaka is the centre of both commerce and government in Zambia and connects to
+    the country's four main highways heading north, south, east and west. English
+    is the official language of the city administration, while Chewa and Bemba are
+    the commonly spoken street languages."

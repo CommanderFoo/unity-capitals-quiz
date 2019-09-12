@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Mexico
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Mexico
+  capital: Mexico City
+  info: "Mexico City, or the City of Mexico is the capital of Mexico and the most
+    populous city in North America. It is one of the most important cultural and
+    financial centres in the Americas. It is located in the Valley of Mexico (Valle
+    de M\xE9xico), a large valley in the high plateaus in the center of Mexico, at
+    an altitude of 2,240 meters (7,350 ft). The city has 16 boroughs."

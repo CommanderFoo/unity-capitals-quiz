@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Canada
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Canada
+  capital: Ottawa
+  info: "Ottawa is the capital city of Canada. It stands on the south bank of the
+    Ottawa River in the eastern portion of southern Ontario. Ottawa borders Gatineau,
+    Quebec; the two form the core of the Ottawa\u2013Gatineau census metropolitan
+    area (CMA) and the National Capital Region (NCR). As of 2016, Ottawa had a city
+    population of 934,243 and a metropolitan population of 1,323,783 making it the
+    fourth-largest city and the fifth-largest CMA in Canada. In June 2019, the City
+    of Ottawa estimated it had surpassed a population of 1 million."

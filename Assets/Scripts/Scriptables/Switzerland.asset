@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Switzerland
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Switzerland
+  capital: Bern
+  info: "Bern or Berne is the de facto capital of Switzerland, referred to by the
+    Swiss as their \"federal city\", in German Bundesstadt, French ville f\xE9d\xE9rale,
+    and Italian citt\xE0 federale. With a population of about 140,000 (as of 2019),
+    Bern is the fifth-most populous city in Switzerland. The Bern agglomeration,
+    which includes 36 municipalities, had a population of 406,900 in 2014. The metropolitan
+    area had a population of 660,000 in 2000. Bern is also the capital of the canton
+    of Bern, the second-most populous of Switzerland's cantons."

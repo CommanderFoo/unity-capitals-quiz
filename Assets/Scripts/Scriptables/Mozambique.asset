@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Mozambique
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Mozambique
+  capital: Maputo
+  info: Maputo is the capital and most populous city of Mozambique. Located near
+    the southern end of the country, it is positioned within 120 km (75 miles) of
+    the Eswatini and South Africa borders. The city has a population of 1,101,170
+    (as of 2017) distributed over a land area of 347 km2 (134 sq mi). The Maputo
+    metropolitan area includes the neighbouring city of Matola, and has a total population
+    of 2,717,437. Maputo is a port city, with an economy centered on commerce. It
+    is also noted for its vibrant cultural scene and distinctive, eclectic architecture.

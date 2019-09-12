@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Romania
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Romania
+  capital: Bucharest
+  info: "Bucharest is the capital and largest city of Romania, as well as its cultural,
+    industrial, and financial centre. It is located in the southeast of the country,
+    at 44\xB025\u203257\u2033N 26\xB006\u203214\u2033E\uFEFF / \uFEFF44.43250\xB0N
+    26.10389\xB0E, on the banks of the D\xE2mbovi\u021Ba River, less than 60 km (37.3
+    mi) north of the Danube River and the Bulgarian border."

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: South Georgia and the South Sandwich Islands
+  m_EditorClassIdentifier: 
+  index: -2
+  country: South Georgia and the South Sandwich Islands
+  capital: King Edward Point
+  info: "King Edward Point is a permanent British Antarctic Survey research station
+    on South Georgia island and is the capital of the British Overseas Territory
+    of South Georgia and the South Sandwich Islands, on the northeastern coast of
+    the island of South Georgia. It is located at 54\xB017\u2032S 36\xB029\u2032W\uFEFF
+    / \uFEFF54.283\xB0S 36.483\xB0W\uFEFF / -54.283; -36.483 in Cumberland East Bay.
+    It is sometimes confusingly referred to as Grytviken, which is the site of the
+    disused whaling station, nearby at the head of King Edward Cove."

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Artsakh
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Artsakh
+  capital: Stepanakert
+  info: Stepanakert is the capital and the largest city of the de facto Republic
+    of Artsakh. The Republic has limited international recognition, being deemed
+    part of the Republic of Azerbaijan by most countries. As of 2015, the population
+    of Stepanakert is 55,200.

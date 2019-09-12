@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Georgia
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Georgia
+  capital: Tbilisi
+  info: "Tbilisi is the capital and the largest city of Georgia, lying on the banks
+    of the Kura River with a population of approximately 1.5\_million people. Founded
+    in the 5th century AD by Vakhtang I of Iberia, since then Tbilisi served as the
+    capital of various Georgian kingdoms and republics. Between 1801 and 1917, then
+    part of the Russian Empire, Tbilisi was the seat of the Imperial Viceroy, governing
+    both Southern and Northern Caucasus."

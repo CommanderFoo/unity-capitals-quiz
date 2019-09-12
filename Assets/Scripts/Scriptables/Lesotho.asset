@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Lesotho
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Lesotho
+  capital: Maseru
+  info: Maseru is the capital and largest city of Lesotho. It is also the capital
+    of the Maseru District. Located on the Caledon River, Maseru lies directly on
+    the Lesotho-South Africa border. Maseru is Lesotho's capital city with a population
+    of 330,760 in the 2016 census. The city was established as a police camp and
+    assigned as the capital after the country became a British protectorate in 1869.
+    When the country achieved independence in 1966, Maseru retained its status as
+    capital. The name of the city is a Sesotho word meaning "red sandstones".

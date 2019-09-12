@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Guyana
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Guyana
+  capital: Georgetown
+  info: Georgetown is a city and the capital of Guyana, located in Region 4, which
+    is also known as the Demerara-Mahaica region. It is the country's largest urban
+    centre. It is situated on the Atlantic Ocean coast at the mouth of the Demerara
+    River and it was nicknamed the 'Garden City of the Caribbean.'

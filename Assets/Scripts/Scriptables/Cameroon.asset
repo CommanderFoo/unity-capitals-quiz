@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Cameroon
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Cameroon
+  capital: "Yaound\xE9"
+  info: "Yaound\xE9 is the capital of Cameroon and, with a population of more than
+    2.8 million, the second-largest city in the country after the port city Douala.
+    It lies in the Centre Region of the nation at an elevation of about 750 metres
+    (2,500\_ft) above sea level."

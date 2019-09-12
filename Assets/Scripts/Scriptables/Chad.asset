@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Chad
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Chad
+  capital: N'Djamena
+  info: "N\u2019Djamena is the capital and largest city of Chad. A port on the Chari
+    River, near the confluence with the Logone River, it directly faces the Cameroonian
+    town of Kouss\xE9ri, to which the city is connected by a bridge. It is also a
+    special statute region, divided into 10 districts or arrondissements. It is a
+    regional market for livestock, salt, dates, and grains. Meat, fish and cotton
+    processing are the chief industries, and the city continues to serve as the center
+    of economic activity in Chad."

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Armenia
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Armenia
+  capital: Yerevan
+  info: Yerevan is the capital and largest city of Armenia as well as one of the
+    world's oldest continuously inhabited cities. Situated along the Hrazdan River,
+    Yerevan is the administrative, cultural, and industrial center of the country.
+    It has been the capital since 1918, the fourteenth in the history of Armenia
+    and the seventh located in or around the Ararat plain. The city also serves as
+    the seat of the Araratian Pontifical Diocese; the largest diocese of the Armenian
+    Apostolic Church and one of the oldest dioceses in the world.

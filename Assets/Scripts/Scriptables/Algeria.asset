@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Algeria
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Algeria
+  capital: Algiers
+  info: Algiers is the capital and largest city of Algeria. In 2011, the city's population
+    was estimated to be around 3,500,000. An estimate puts the population of the
+    larger metropolitan city to be around 5,000,000. Algiers is located on the Mediterranean
+    Sea and in the north-central portion of Algeria.

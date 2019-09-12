@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Somalia
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Somalia
+  capital: Mogadishu
+  info: "Mogadishu is the capital and most populous city of Somalia. Located in the
+    coastal Banadir region on the Somali Sea, the city has served as an important
+    port for millennia. The original inhabitants are known as reer xamar.  As of
+    2017, it had a population of 2,425,000 residents. Mogadishu is the nearest foreign
+    mainland city to Seychelles, at a distance of 835\_mi (1,344\_km) over the Somali
+    Sea."

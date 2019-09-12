@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Japan
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Japan
+  capital: Tokyo
+  info: "Tokyo is one of the 47 prefectures of Japan. It served as the Japanese capital
+    since 1869. As of 2018, the Greater Tokyo Area ranked as the most populous metropolitan
+    area in the world. The urban area houses the seat of the Emperor of Japan, of
+    the Japanese government and of the National Diet. Tokyo forms part of the Kant\u014D
+    region on the southeastern side of Japan's main island, Honshu, and includes
+    the Izu Islands and Ogasawara Islands. Tokyo was formerly named Edo when Sh\u014Dgun
+    Tokugawa Ieyasu made the city his headquarters in 1603. It became the capital
+    after Emperor Meiji moved his seat to the city from Kyoto in 1868; at that time
+    Edo was renamed Tokyo. The Tokyo Metropolis formed in 1943 from the merger of
+    the former Tokyo Prefecture (\u6771\u4EAC\u5E9C T\u014Dky\u014D-fu) and the city
+    of Tokyo (\u6771\u4EAC\u5E02 T\u014Dky\u014D-shi). Tokyo is often referred to
+    as a city but is officially known and governed as a \"metropolitan prefecture\",
+    which differs from and combines elements of a city and a prefecture, a characteristic
+    unique to Tokyo."

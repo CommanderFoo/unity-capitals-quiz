@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Ukraine
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Ukraine
+  capital: Kiev
+  info: Kiev or Kyiv is the capital and most populous city of Ukraine, located in
+    the north-central part of the country on the Dnieper. The population in July
+    2015 was 2,887,974 (though higher estimated numbers have been cited in the press),
+    making Kiev the 7th most populous city in Europe.

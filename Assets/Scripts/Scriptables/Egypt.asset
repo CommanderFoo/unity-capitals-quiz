@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Egypt
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Egypt
+  capital: Cairo
+  info: "Cairo is the capital of Egypt. The city's metropolitan area is one of the
+    largest in Africa, the largest in the Middle East and 15th-largest in the world,
+    and is associated with ancient Egypt, as the famous Giza pyramid complex and
+    the ancient city of Memphis are located in its geographical area. Located near
+    the Nile Delta, modern Cairo was founded in 969\_AD by the Fatimid dynasty, but
+    the land composing the present-day city was the site of ancient national capitals
+    whose remnants remain visible in parts of Old Cairo. Cairo has long been a centre
+    of the region's political and cultural life, and is titled \"the city of a thousand
+    minarets\" for its preponderance of Islamic architecture. Cairo is considered
+    a World City with a \"Beta +\" classification according to GaWC."

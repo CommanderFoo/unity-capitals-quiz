@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Moldova
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Moldova
+  capital: "Chi\u0219in\u0103u"
+  info: "Chi\u0219in\u0103u is the capital and largest city of the Republic of Moldova.
+    The city is Moldova's main industrial and commercial center, and is located in
+    the middle of the country, on the river B\xE2c, a tributary of Dniester. According
+    to the results of the 2014 census, the city proper had a population of 532,513,
+    while the population of the Municipality of Chi\u0219in\u0103u (which includes
+    the city itself and other nearby communities) was 662,836. Chi\u0219in\u0103u
+    is the most economically prosperous locality in Moldova and its largest transportation
+    hub."

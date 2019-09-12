@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Cuba
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Cuba
+  capital: Havana
+  info: "Havana is the capital city, largest city, province, major port, and leading
+    commercial center of Cuba. The city has a population of 2.1\_million inhabitants,
+    and it spans a total of 781.58\_km2 (301.77\_sq\_mi) \u2013 making it the largest
+    city by area, the most populous city, and the fourth largest metropolitan area
+    in the Caribbean region."

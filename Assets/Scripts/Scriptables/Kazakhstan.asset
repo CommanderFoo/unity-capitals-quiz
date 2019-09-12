@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Kazakhstan
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Kazakhstan
+  capital: Nur-Sultan
+  info: Nur-Sultan is the capital city of Kazakhstan. It stands on the banks of the
+    Ishim River in the northern portion of Kazakhstan, within the Akmola Region,
+    though administered separately from the region as a city with special status.
+    A 2017 official estimate reported a population of 1,029,556 within the city limits,
+    making it the second-largest city in Kazakhstan, behind Almaty, the capital from
+    1991 to 1997.

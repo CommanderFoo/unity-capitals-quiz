@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Jersey
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Jersey
+  capital: Saint Helier
+  info: Saint Helier is one of the twelve parishes of Jersey, the largest of the
+    Channel Islands in the English Channel. St Helier has a population of about 33,500,
+    roughly 34.2% of the total population of Jersey, and is the capital of the Island
+    (although Government House is situated in St Saviour). The urban area of the
+    parish of St Helier makes up most of the largest town in Jersey, although some
+    of the town area is situated in adjacent St Saviour, with suburbs sprawling into
+    St Lawrence and St Clement. The greater part of St Helier is rural.

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Saint Kitts and Nevis
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Saint Kitts and Nevis
+  capital: Basseterre
+  info: "Basseterre  is the capital and largest city of Saint Kitts and Nevis with
+    an estimated population of 14,000 in 2018. Geographically, the Basseterre port
+    is located at 17\xB018\u2032N 62\xB044\u2032W\uFEFF / \uFEFF17.300\xB0N 62.733\xB0W,
+    on the south western coast of Saint Kitts Island, and it is one of the chief
+    commercial depots of the Leeward Islands. The city lies within Saint George Basseterre
+    Parish.\n\nBasseterre is one of the oldest towns in the Eastern Caribbean."

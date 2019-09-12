@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Angola
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Angola
+  capital: Luanda
+  info: "Luanda, formerly named S\xE3o Paulo da Assun\xE7\xE3o de Loanda, is the
+    capital and largest city in Angola, It is Angola's primary port, and its major
+    industrial, cultural and urban centre. Located on Angola's northern coast with
+    the Atlantic Ocean, Luanda is both Angola's chief seaport and its administrative
+    centre. It is also the capital city of Luanda Province. Luanda and its metropolitan
+    area is the most populous Portuguese-speaking capital city in the world, with
+    over 8 million inhabitants in 2019 (a third of Angola's population). Among the
+    oldest colonial cities of Africa, it was founded in January 1576 by Portuguese
+    explorer Paulo Dias de Novais, under the name of S\xE3o Paulo da Assun\xE7\xE3o
+    de Loanda. The city served as the centre of the slave trade to Brazil before
+    its prohibition. At the start of the Angolan Civil War in 1975, most of the white
+    Portuguese left as refugees, principally for Portugal. Luanda's population increased
+    greatly from refugees fleeing the war, but its infrastructure was inadequate
+    to handle the increase. This also caused the exacerbation of slums, or musseques,
+    around Luanda. The city is currently undergoing a major reconstruction, with
+    many large developments taking place that will alter its cityscape significantly."

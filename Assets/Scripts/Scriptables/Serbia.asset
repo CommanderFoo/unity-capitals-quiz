@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Serbia
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Serbia
+  capital: Belgrade
+  info: Belgrade is the capital and largest city of Serbia. It is located at the
+    confluence of the Sava and Danube rivers and the crossroads of the Pannonian
+    Plain and the Balkan Peninsula. The urban area of Belgrade has a population of
+    1.23 million, while within administrative limits of the City of Belgrade (which
+    encompasses almost all of its metropolitan area) live nearly 1.7 million people,
+    a quarter of total population of Serbia.

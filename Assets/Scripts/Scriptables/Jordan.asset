@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Jordan
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Jordan
+  capital: Amman
+  info: Amman is the capital and most populous city of Jordan, and the country's
+    economic, political and cultural centre. Situated in north-central Jordan, Amman
+    is the administrative centre of the Amman Governorate. The city has a population
+    of 4,007,526 and a land area of 1,680 square kilometres (648.7 square miles).
+    Today, Amman is considered to be among the most modernized Arab cities. It is
+    a major tourist destination in the region, particularly among Arab and European
+    tourists.

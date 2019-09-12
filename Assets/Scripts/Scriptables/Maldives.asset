@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Maldives
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Maldives
+  capital: "Mal\xE9"
+  info: "Mal\xE9 is the capital and most populous city in the Republic of Maldives.
+    With a population of 133,412 and an area of 9.27 square kilometres (3.58 sq mi),
+    it is also one of the most densely populated cities in the world. The city is
+    geographically located at the southern edge of North Mal\xE9 Atoll (Kaafu Atoll).
+    Administratively, the city consists of a central island, an airport island, and
+    two other islands governed by the Mal\xE9 City Council."

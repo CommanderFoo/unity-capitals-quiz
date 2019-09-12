@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Eswatini (Swaziland)
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Eswatini (Swaziland)
+  capital: Mbabane / Lobamba
+  info: 'Mbabane is the capital and largest city in Eswatini. With an estimated population
+    of 94,874 , it is located on the Mbabane River and its tributary the Polinjane
+    River in the Mdzimba Mountains. It is located in the Hhohho Region, of which
+    it is also the capital. The average elevation of the city is 1243 meters. It
+    lies on the MR3 road.
+
+
+    Lobamba is the traditional, spiritual, and legislative
+    capital city of Eswatini, seat of the Parliament, and residence of the Ntombi,
+    the Queen Mother. Mswati III lives about 10 kilometres (6.2 mi) away at the Lozitha
+    Palace. The King and Queen Mother participate in annual December and January
+    Incwala ceremonies and August and September Reed Dancees at the Royal Kraal.'

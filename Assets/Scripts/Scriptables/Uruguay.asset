@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Uruguay
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Uruguay
+  capital: Montevideo
+  info: "Montevideo is the capital and largest city of Uruguay. According to the
+    2011 census, the city proper has a population of 1,319,108 (about one-third of
+    the country's total population) in an area of 201 square kilometres (78\_sq\_mi).
+    The southernmost capital city in the Americas, Montevideo is situated on the
+    southern coast of the country, on the northeastern bank of the R\xEDo de la Plata."

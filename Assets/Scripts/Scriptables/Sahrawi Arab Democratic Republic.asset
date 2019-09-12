@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Sahrawi Arab Democratic Republic
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Sahrawi Arab Democratic Republic
+  capital: Laayoune / Tifariti
+  info: "La\xE2youne is the largest city of the disputed territory of Western Sahara
+    and de facto administered by Morocco. The modern city is thought to have been
+    founded by the Spanish colonizer Antonio de Oro in 1938. In 1940, Spain designated
+    it as the capital of the Spanish Sahara. La\xE2youne (El-Aai\xFAn) is the capital
+    of the La\xE2youne-Sakia El Hamra region administered by Morocco under the supervision
+    of the UN peace-keeping mission in Western Sahara (MINURSO).\n\nTifariti is an
+    oasis town located in north-eastern Western Sahara, east of the Moroccan Berm,
+    138 km (86 mi) from Smara and 15 km (9 mi) north of the Mauritanian border. It
+    is part of what Polisario Front call the Liberated Territories and Morocco call
+    the Buffer Zone. It has been the de facto temporary capital of the Sahrawi Arab
+    Democratic Republic since the government moved there in 2008 from Bir Lehlou.
+    It is the headquarters of the 2nd military region of the SADR."

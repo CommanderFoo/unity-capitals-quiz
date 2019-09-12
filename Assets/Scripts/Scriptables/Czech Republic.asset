@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Czech Republic
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Czech Republic
+  capital: Prague
+  info: "Prague is the capital and largest city in the Czech Republic, the 14th largest
+    city in the European Union and the historical capital of Bohemia. Situated in
+    the northwest of Czechia on the Vltava river, Prague is home to about 1.3\_million
+    people, while its metropolitan area is estimated to have a population of 2.6\_million.
+    The city has a temperate oceanic climate, with relatively warm summers and chilly
+    winters."

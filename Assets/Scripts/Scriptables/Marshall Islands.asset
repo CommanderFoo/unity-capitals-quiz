@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Marshall Islands
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Marshall Islands
+  capital: Majuro
+  info: "Majuro is the capital and largest city of the Marshall Islands. It is also
+    a large coral atoll of 64 islands in the Pacific Ocean. It forms a legislative
+    district of the Ratak (Sunrise) Chain of the Marshall Islands. The atoll has
+    a land area of 9.7 square kilometres (3.7\_sq\_mi) and encloses a lagoon of 295
+    square kilometres (114\_sq\_mi). As with other atolls in the Marshall Islands,
+    Majuro consists of narrow land masses."

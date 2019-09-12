@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Panama
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Panama
+  capital: Panama City
+  info: Panama City also simply known as Panama, is the capital and largest city
+    of Panama. It has an urban population of 880,691, with over 1.5 million in its
+    metropolitan area. The city is located at the Pacific entrance of the Panama
+    Canal, in the province of Panama. The city is the political and administrative
+    center of the country, as well as a hub for banking and commerce.

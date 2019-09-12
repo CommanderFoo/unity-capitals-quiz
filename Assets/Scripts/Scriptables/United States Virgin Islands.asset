@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: United States Virgin Islands
+  m_EditorClassIdentifier: 
+  index: -2
+  country: United States Virgin Islands
+  capital: Charlotte Amalie
+  info: "Charlotte Amalie is the capital and the largest city of the United States
+    Virgin Islands, founded in 1666 as Taphus (meaning \"beer house\" or \"beer hall\").
+    In 1691, the town was renamed to Charlotte Amalie after Charlotte Amalie of Hesse-Kassel
+    (1650\u20131714), queen consort to King Christian V of Denmark-Norway. It has
+    a deep-water harbor that was once a haven for pirates and is now one of the busiest
+    ports of call for cruise ships in the Caribbean, with about 1.5 million/plus
+    cruise ship passengers landing there annually. Protected by Hassel Island, the
+    harbor has docking and fueling facilities, machine shops, and shipyards and was
+    a U.S. submarine base until 1966. The Town has been inhabited for centuries.
+    When Christopher Columbus arrived in 1493, the area was inhabited by Caribs,
+    Arawaks, Ciboney and Ta\xEDno native peoples. It is on the southern shore at
+    the head of Saint Thomas Harbor. In 2010 the City had a population of 18,481,
+    which makes it the largest city in the Virgin Islands Archipelago. Hundreds of
+    ferries and yachts pass by the Town each week."

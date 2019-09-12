@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Bolivia
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Bolivia
+  capital: Sucre / La Paz
+  info: 'Sucre is the constitutional capital of Bolivia, the capital of the Chuquisaca
+    Department and the 6th most populated city in Bolivia. Located in the south-central
+    part of the country, Sucre lies at an elevation of 2,810 meters (9,214 feet).
+    This relatively high altitude gives the city an oceanic climate with cool temperates
+    year-round.
+
+
+    La Paz is the seat of government and the de facto national
+    capital of the Plurinational State of Bolivia (the constitutional capital of
+    Bolivia is Sucre). With an estimated 789,541 residents as of 2015, La Paz is
+    the third-most populous city in Bolivia (after Santa Cruz de la Sierra and El
+    Alto). Its metropolitan area, which is formed by La Paz, El Alto and Viacha,
+    makes up the most populous urban area in Bolivia, with a population of 2.3 million.
+    It is also the capital of the La Paz Department.'

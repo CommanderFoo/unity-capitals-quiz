@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Burkina Faso
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Burkina Faso
+  capital: Ouagadougou
+  info: Ouagadougou is the capital of Burkina Faso and the administrative, communications,
+    cultural, and economic centre of the nation. It is also the country's largest
+    city, with a population of 2,200,000 in 2015. The city's name is often shortened
+    to Ouaga. The inhabitants are called ouagalais. The spelling of the name Ouagadougou
+    is derived from the French orthography common in former French African colonies.

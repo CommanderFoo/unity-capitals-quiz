@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Bangladesh
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Bangladesh
+  capital: Dhaka
+  info: Dhaka is the capital and largest city of Bangladesh. It is one of the largest
+    and most densely populated cities in the world, with a population of 18.2 million
+    people in the Greater Dhaka Area as of 2016, while the city itself has a population
+    of 8.9 million inhabitants as of 2011. Dhaka is the economic, political and cultural
+    center of Bangladesh. It is one of the major cities of South Asia, the largest
+    city in Eastern South Asia and among the Bay of Bengal countries;  and one of
+    the largest cities among OIC countries. As part of the Bengal plain, the city
+    is bounded by the Buriganga River, Turag River, Dhaleshwari River and Shitalakshya
+    River. The city is located in an eponymous district and division.

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Sweden
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Sweden
+  capital: Stockholm
+  info: "Stockholm is the capital of Sweden and the most populous urban area in the
+    Nordic countries; 965,232 people live in the municipality, approximately 1.6
+    million in the urban area, and 2.4 million in the metropolitan area. The city
+    stretches across fourteen islands where Lake M\xE4laren flows into the Baltic
+    Sea. Outside the city to the east, and along the coast, is the island chain of
+    the Stockholm archipelago. The area has been settled since the Stone Age, in
+    the 6th millennium BC, and was founded as a city in 1252 by Swedish statesman
+    Birger Jarl. It is also the county seat of Stockholm County."

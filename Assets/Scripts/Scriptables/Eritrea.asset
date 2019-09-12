@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Eritrea
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Eritrea
+  capital: Asmara
+  info: "Asmara is the capital and most populous city of Eritrea, in the country's
+    Central Region. It sits at an elevation of 2,325 metres (7,628\_ft), making it
+    the sixth highest capital in the world by altitude. The city is located at the
+    tip of an escarpment that is both the northwestern edge of the Eritrean Highlands
+    and the Great Rift Valley in neighbouring Ethiopia. In 2017, the city was declared
+    as a UNESCO World Heritage Site for its well-preserved modernist architecture.
+    Asmara was first settled in 800 BC with a population ranging from 100 to 1000.
+    The city was then founded in the 12th century AD after four separate villages
+    unified to live together peacefully after long periods of conflict."

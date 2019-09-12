@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: South Africa
+  m_EditorClassIdentifier: 
+  index: -2
+  country: South Africa
+  capital: Pretoria / Bloemfontein / Cape Town
+  info: 'Pretoria is the administrative capital of South Africa. It straddles the
+    Apies River and has spread eastwards into the foothills of the Magaliesberg mountains.
+
+
+    Bloemfontein
+    is the capital city of the province of Free State of South Africa; and, as the
+    judicial capital of the nation, one of South Africa''s three national capitals
+    (the other two being Cape Town, the legislative capital, and Pretoria, the administrative
+    capital) and is the seventh largest city in South Africa.
+
+
+    Cape Town is
+    a legislative capital of South Africa, colloquially named the Mother City. It
+    is the legislative capital of South Africa and primate city of the Western Cape
+    province. It forms part of the City of Cape Town metropolitan municipality.'

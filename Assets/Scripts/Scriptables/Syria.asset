@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Syria
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Syria
+  capital: Damascus
+  info: "Damascus is the capital of the Syrian Arab Republic; it is also the country's
+    largest city, following the decline in population of Aleppo due to the battle
+    for the city. It is colloquially known in Syria as a\u0161-\u0160\u0101m (\u0627\u0644\u0634\u0627\u0645)
+    and titled  the \"City of Jasmine\" (\u0645\u062F\u064A\u0646\u0629 \u0627\u0644\u064A\u0627\u0633\u0645\u064A\u0646
+    Mad\u012Bnat al-Y\u0101sm\u012Bn). In addition to being one of the oldest continuously
+    inhabited cities in the world, Damascus is a major cultural center of the Levant
+    and the Arab world. The city has an estimated population of 1,711,000 as of 2009."

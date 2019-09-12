@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Sierra Leone
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Sierra Leone
+  capital: Freetown
+  info: Freetown is the capital and largest city of Sierra Leone. It is a major port
+    city on the Atlantic Ocean and is located in the Western Area of the country.
+    Freetown is Sierra Leone's major urban, economic, financial, cultural, educational
+    and political centre, as it is the seat of the Government of Sierra Leone. The
+    population of Freetown was 1,055,964 at the 2015 census.

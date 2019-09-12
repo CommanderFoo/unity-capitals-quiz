@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Tuvalu
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Tuvalu
+  capital: Funafuti
+  info: "Funafuti is an atoll and the capital of the island nation of Tuvalu. It
+    has a population of 6,025 people, making it the country's most populated atoll,
+    with 56.6 percent of Tuvalu's population. It is a narrow sweep of land between
+    20 and 400 metres (66 and 1,312 feet) wide, encircling a large lagoon (Te Namo)
+    18\_km (11 miles) long and 14\_km (9 miles) wide. The average depth in the Funafuti
+    lagoon is about 20 fathoms (36.5 metres or 120 feet). With a surface of 275 square
+    kilometres (106.2\_sq\_mi), it is by far the largest lagoon in Tuvalu. The land
+    area of the 33 islets aggregates to 2.4 square kilometres (0.9\_sq\_mi), less
+    than one percent of the total area of the atoll. Cargo ships can enter Funafuti's
+    lagoon and dock at the port facilities on Fongafale."

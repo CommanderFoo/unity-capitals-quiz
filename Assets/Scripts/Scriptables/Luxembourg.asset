@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Luxembourg
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Luxembourg
+  capital: Luxembourg
+  info: "Luxembourg also known as Luxembourg City, is the capital city of the Grand
+    Duchy of Luxembourg (also named \"Luxembourg\"), and the country's most populous
+    commune. Standing at the confluence of the Alzette and P\xE9trusse rivers in
+    southern Luxembourg, the city lies at the heart of Western Europe, situated 213
+    km (132 mi) by road from Brussels, 372 km (231 mi) from Paris, and 209 km (130
+    mi) from Cologne. The city contains Luxembourg Castle, established by the Franks
+    in the Early Middle Ages, around which a settlement developed."

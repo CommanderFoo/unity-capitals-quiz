@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Gambia
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Gambia
+  capital: Banjul
+  info: Banjul is the capital and fourth largest city of The Gambia. It is the centre
+    of the eponymous administrative division which is home to an estimated 400,000
+    residents, making it The Gambia's largest and densely populated metropolitan
+    area. Banjul is on St Mary's Island (Banjul Island), where the Gambia River enters
+    the Atlantic Ocean. The population of the city proper is 31,301, with the Greater
+    Banjul Area, which includes the City of Banjul and the Kanifing Municipal Council,
+    at a population of 413,397 (2013 census). The island is connected to the mainland
+    to the west and the rest of Greater Banjul Area via bridges. There are also ferries
+    linking Banjul to the mainland at the other side of the river.

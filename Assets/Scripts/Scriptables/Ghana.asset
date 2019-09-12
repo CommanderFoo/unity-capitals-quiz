@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Ghana
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Ghana
+  capital: Accra
+  info: "Accra is the capital and largest city of Ghana, covering an area of 225.67\_km2
+    (87.13\_sq\_mi) with an estimated urban population of 2.27\_million as of 2012.
+    It is organized into 12 local government districts \u2013 11 municipal districts
+    and the Accra Metropolitan District, which is the only district within the capital
+    to be granted city status. \"Accra\" usually refers to the Accra Metropolitan
+    Area, which serves as the capital of Ghana, while the district which is within
+    the jurisdiction of the Accra Metropolitan Assembly is distinguished from the
+    rest of the capital as the \"City of Accra\". In common usage, however, the terms
+    \"Accra\" and \"City of Accra\" are used interchangeably."

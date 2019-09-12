@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Austria
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Austria
+  capital: Vienna
+  info: "Vienna is the federal capital, largest city and one of nine states of Austria.
+    Vienna is Austria's primate city, with a population of about 1.9\_million (2.6\_million
+    within the metropolitan area, nearly one third of the country's population),
+    and its cultural, economic, and political centre. It is the 7th-largest city
+    by population within city limits in the European Union. Until the beginning of
+    the 20th century, it was the largest German-speaking city in the world, and before
+    the splitting of the Austro-Hungarian Empire in World War I, the city had 2 million
+    inhabitants. Today it is the second largest German-speaking city after Berlin
+    and just before Hamburg. Vienna is host to many major international organizations,
+    including the United Nations and OPEC. The city is located in the eastern part
+    of Austria and is close to the borders of Czechia, Slovakia, and Hungary. These
+    regions work together in a European Centrope border region. Along with nearby
+    Bratislava, Vienna forms a metropolitan region with 3\_million inhabitants. In
+    2001, the city centre was designated a UNESCO World Heritage Site. In July 2017
+    it was moved to the list of World Heritage in Danger."

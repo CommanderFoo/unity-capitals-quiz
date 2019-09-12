@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Botswana
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Botswana
+  capital: Gaborone
+  info: Gaborone is the capital and largest city of Botswana with a population of
+    231,626 based on the 2011 census, about 10% of the total population of Botswana.
+    Its agglomeration is home to 421,907 inhabitants at the 2011 census.

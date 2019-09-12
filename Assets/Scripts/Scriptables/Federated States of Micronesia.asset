@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Federated States of Micronesia
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Federated States of Micronesia
+  capital: Palikir
+  info: Palikir is a town with about 4,600 people and the capital of the Federated
+    States of Micronesia in the western Pacific Ocean. It is part of the much larger
+    Sokehs municipality, which had a population of 7,000 as of 2009[update], out
+    of the nation's total population of 106,487. It is situated on the northwest
+    side of Pohnpei island (population 33,000), a high volcanic island surrounded
+    by a fringing coral reef. Nearby to the northeast is the island's largest settlement,
+    the coastal town of Kolonia.

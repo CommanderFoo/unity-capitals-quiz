@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Malaysia
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Malaysia
+  capital: Kuala Lumpur
+  info: "Kuala Lumpur is the national capital and largest city in Malaysia. As the
+    global city of Malaysia, it covers an area of 243\_km2 (94\_sq\_mi) and has an
+    estimated population of 1.73\_million as of 2016.Greater Kuala Lumpur, also known
+    as the Klang Valley, is an urban agglomeration of 7.25\_million people as of
+    2017. It is among the fastest growing metropolitan regions in Southeast Asia,
+    in both population and economic development."

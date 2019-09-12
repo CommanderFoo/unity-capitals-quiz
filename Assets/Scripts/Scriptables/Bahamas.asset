@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75165060482f4684ca58675fe2a826f5, type: 3}
+  m_Name: Bahamas
+  m_EditorClassIdentifier: 
+  index: -2
+  country: Bahamas
+  capital: Nassau
+  info: "Nassau is the capital and commercial centre of the Commonwealth of the Bahamas.
+    The city has an estimated population of 274,400 as of 2016, just over 70% of
+    the population of the country (\u2248391,000).Lynden Pindling International Airport,
+    the major airport for the Bahamas, is located about 16 kilometres (9.9\_mi) west
+    of Nassau city centre, and has daily flights to major cities in Canada, the Caribbean,
+    the United Kingdom and the United States. The city is located on the island of
+    New Providence, which functions much like a business district. Nassau is the
+    site of the House of Assembly and various judicial departments and was considered
+    historically to be a stronghold of pirates. The city was named in honour of William
+    III of England, Prince of Orange-Nassau."
